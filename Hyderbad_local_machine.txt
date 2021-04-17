@@ -9,7 +9,7 @@ IP:-20.0.12.235
 Designer location:- /home/eptesting1/EP_local/VolanteDesigner6_3_0
 git location:-      /home/eptesting1/EP_local/EarthPort_local_setup/earthport
 .m2 location:-      /home/eptesting1/.m2 (if not found show hidden files)
-
+jsgfjsgejfgjew
 --------------------------------------------------------------------------------------------------------------
 Designer 6.4.0 link:- https://getfiles.volantetech.com/Releases/R600B2021/linux/Volante_6_4_0.sh
                       https://getfiles.volantetech.com/Releases/R600B2021/linux/Volante_6_4_0Documentation.sh
