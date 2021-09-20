@@ -3,11 +3,9 @@ pipeline{
     stages{
       stage('batch'){
               steps{
-                bat"""
-                  dir
-                  cd
-                  www.google.com
-                  """
+                bat"dir"
+                 bat"cd"
+                 bat"www.google.com
                 }
               }
             }
